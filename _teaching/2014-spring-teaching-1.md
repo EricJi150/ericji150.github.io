@@ -4,7 +4,7 @@ collection: teaching
 type: "Intro to Computing (ECE120)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois Urbana-Champaign"
-# date: 2020-01-01
+date: 2020-01-01
 location: "Champaign, USA"
 ---
 

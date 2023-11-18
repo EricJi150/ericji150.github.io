@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Course Assistant"
 collection: teaching
-type: "Intro to Computing (ECE120)"
+type: "ECE 120:Introduction to Computing"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois Urbana-Champaign"
 date: 2020-01-01

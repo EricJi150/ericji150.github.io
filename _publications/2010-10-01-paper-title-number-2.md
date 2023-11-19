@@ -16,5 +16,5 @@ This is invisible comment line 4.
 This is invisible comment line 5.
 -->  
 
-[Download abstract here](https://ericji150.github.io/ericji.github.io/files/MLCAS2022-Abstract.pdf)  
-[Download poster here](https://ericji150.github.io/ericji.github.io/files/MLCAS2022-Poster.pdf)  
+[Download abstract here](https://ericji150.github.io/files/MLCAS2022-Abstract.pdf)  
+[Download poster here](https://ericji150.github.io/files/MLCAS2022-Poster.pdf)  

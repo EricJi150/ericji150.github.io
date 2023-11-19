@@ -12,5 +12,3 @@ citation: 'S. K. Kamtikar, E. Ji, N. K. Uppalapati, G. Krishnan, G. Chowdhary. â
 This paper is about the number 2. The number 3 is left for future work.
 
 [Download poster here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

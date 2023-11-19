@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustraion of computer vison](images\eye.png){: .align-right width="300px"}
+![Illustraion of computer vison](images\robot.png){: .align-right width="300px"}
 
 📚 I am a senior undergraduate student at the University of Illinois Urbana-Champaign majoring in computer engineering. I am currently a part of the [Vision Group @ UIUC](https://vision.cs.illinois.edu/vision_website/) under the supervision of [Dr. Svetlana Lazebnik](https://slazebni.cs.illinois.edu/).
 

@@ -6,7 +6,7 @@ excerpt:
 date: 2022-10-01
 venue: 'Fourth International Workshop on Machine Learning for Cyber-Agricultural Systems (MLCAS)'
 paperurl: 
-citation: 'S. K. Kamtikar, E. Ji, N. K. Uppalapati, G. Krishnan, G. Chowdhary. ”Realistic Simulation Environments to Achieve Visual Servoing on Soft Continuum Arms in Constrained Environments”. Fourth International Workshop on Machine Learning for Cyber-Agricultural Systems (MLCAS 2022).'
+citation: 'S. K. Kamtikar, E. Ji, N. K. Uppalapati, G. Krishnan, G. Chowdhary. Realistic Simulation Environments to Achieve Visual Servoing on Soft Continuum Arms in Constrained Environments. Fourth International Workshop on Machine Learning for Cyber-Agricultural Systems (MLCAS).'
 ---
 
 [Download abstract here](https://ericji150.github.io/ericji.github.io/files/MLCAS2022-Abstract.pdf)  

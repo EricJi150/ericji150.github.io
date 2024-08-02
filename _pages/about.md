@@ -16,3 +16,4 @@ redirect_from:
 
 🎣 My personal hobbies include fishing, golf, weightlifting, and gaming.
 
+**I am currently looking for CV/AI internships for summer 2025.**

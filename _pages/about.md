@@ -10,10 +10,9 @@ redirect_from:
 
 ![Illustraion of computer vison](images\robot.png){: .align-right width="300px"}
 
-📚 I am a senior undergraduate student at the University of Illinois Urbana-Champaign majoring in computer engineering. I am currently a part of the [Vision Group @ UIUC](https://vision.cs.illinois.edu/vision_website/) under the supervision of [Dr. Svetlana Lazebnik](https://slazebni.cs.illinois.edu/).
+📚 I am a first-year Ph.D. student at the University of Illinois Urbana-Champaign  in the Electrical and Computer Engineering department.
 
 🖥️ My research interests are in producing meaningful applications of computer vision and robotics.
 
-🎣 My personal hobbies include fishing, olympic weightlifting, and gaming.
+🎣 My personal hobbies include fishing, golf, weightlifting, and gaming.
 
-**I will be graduating this May and am currently applying to Ph.D. programs for Fall 2024.**

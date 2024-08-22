@@ -10,7 +10,7 @@ redirect_from:
 
 ![Illustraion of computer vison](images\robot.png){: .align-right width="300px"}
 
-📚 I am a first-year Ph.D. student at the University of Illinois Urbana-Champaign  in the Electrical and Computer Engineering department.
+📚 I am a first-year Ph.D. student at the University of Illinois Urbana-Champaign  in the Electrical and Computer Engineering department. I am part of the Computational Imaging Group (CIG) under Professor Minh Do.
 
 🖥️ My research interests are in producing meaningful applications of computer vision and artificial intelligence.
 

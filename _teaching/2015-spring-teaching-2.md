@@ -7,5 +7,3 @@ venue: "University of Illinois Urbana-Champaign"
 date: 2023-01-01
 location: "Champaign, USA"
 ---
-
-Responsible for correcting students' weekly written/coding homework assignments and providing meaningful feedback for their work.

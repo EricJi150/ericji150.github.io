@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![View](images\ensenada.png){: .align-right width="300px"}
+![View](images\ensenada.jpg){: .align-right width="300px"}
 
 📚 I am a first-year ECE Ph.D. student at UIUC. I am part of the Computational Imaging Group (CIG) under Professor Minh Do and work closely with Professor Yaoyao Liu in the Computer Vision and Machine Learning Group.
 

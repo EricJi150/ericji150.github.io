@@ -10,10 +10,10 @@ redirect_from:
 
 ![Image](images\ece.png){: .align-right width="125px"}
 
-📚 I am a first-year ECE Ph.D. student at UIUC. I am part of the Computational Imaging Group (CIG) under Professor Minh Do and work closely with Professor Yaoyao Liu in the Computer Vision and Machine Learning Group.
+📚 I am a second-year ECE Ph.D. student at UIUC. I am part of the Computational Imaging Group (CIG) under Professor Minh Do and work closely with Professor Yaoyao Liu in the Computer Vision and Machine Learning Group.
 
 🖥️ My research interests are in image feature matching and image generation.
 
 🎣 My personal hobbies include fishing, golf, weightlifting, and gaming.
 
-**I will be interning at Siemens as a GenAI intern this summer!**
+**I am currently looking for Summer 2026 internships in AI/ML!**

@@ -1,0 +1,12 @@
+---
+title: "AC3S: Adaptive Conditioning for 3D-Aware Synthetic Data Generation"
+collection: publications
+permalink: /publication/2026-09-01-paper-title-number-1
+excerpt: 
+date: 2026-09-01
+venue: 'European Conference on Computer Vision (ECCV)'
+paperurl: 
+citation: 'E. Ji, B. Dong, B. Samanthula, N. Zhou. "2D-FACT: Dual-Domain Fake Image Detection Against Text-to-Image Generative Models". MIT Undergraduate Research Technology Conference (URTC 2023).'
+---
+Synthetic data generation has emerged as a powerful tool for improving data scalability in computer vision. Recent diffusion-based pipelines have demonstrated strong photorealism. However, how to enforce precise 3D structure and pose consistency in generated images remains challenging. Existing methods leverage visual prompts such as edge maps to guide diffusion models, but often suffer from over-conditioning artifacts that degrade image realism and limit dataset quality. In this paper, we present a diffusion-based image generation framework that enforces 3D structural alignment while preserving photorealism through adaptive conditioning. Our framework, Adaptive Conditioning for 3D-Aware Synthetic Data Generation (AC3S), introduces a self-supervised visual prompt modulator that dynamically adjusts the strength of ControlNet conditioning, preventing over-conditioning and enabling the diffusion model to retain its generative expressiveness. To further enhance diversity and semantic consistency, we develop a multi-agent vision language model framework that composes detailed and 3D-aware prompts aligned with the underlying geometric structure. Together, these components enable the scalable generation of high-quality synthetic datasets with accurate 2D and 3D annotations. Extensive experiments demonstrate that our method significantly improves image quality and downstream utility.
+[Download paper here](https://arxiv.org/html/2606.31204v1)  

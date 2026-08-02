@@ -22,4 +22,4 @@ redirect_from:
 
 **06/2026:** Our paper AC3S got accepted to ECCV 2026
 
-**05/2026:** I starte my internship at Honda Research Institue in San Jose, CA
+**05/2026:** Started my internship at Honda Research Institute in San Jose, CA

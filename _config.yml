@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Eric Ji"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student at University of Illinois Urbana-Champaign, Department of Electrical and Computer Engineering"
+  bio              : "Ph.D. Candidate at University of Illinois Urbana-Champaign, Department of Electrical and Computer Engineering"
   location         : "Champaign, IL"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=IcymyOoAAAAJ&hl=en"
   email            : "ericji3@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

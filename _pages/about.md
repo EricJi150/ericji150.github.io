@@ -12,9 +12,12 @@ redirect_from:
 
 📚 I am a third-year ECE Ph.D. candidate at UIUC. I am advised by Professor Alexander Schwing and work in collaboration with Professor Minh Do and Professor Yaoyao Liu.
 
-
 🖥️ My research interests include generative modeling and error detection in images/videos.
 
 🎣 My personal hobbies include fishing, golfing, and weightlifting.
 
-**I am currently interning at Honda Research Institute in San Jose, CA!**
+**News:**
+
+**06/2026:** Our paper AC3S got accepted to ECCV 2026
+
+**05/2026:** I starte my internship at Honda Research Institue in San Jose, CA

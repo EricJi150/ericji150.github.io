@@ -16,7 +16,9 @@ redirect_from:
 
 🎣 My personal hobbies include fishing, golfing, and weightlifting.
 
-**News:**
+**---**
+
+**Recent News:**
 
 **06/2026:** Our paper AC3S got accepted to ECCV 2026
 

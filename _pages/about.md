@@ -12,6 +12,7 @@ redirect_from:
 
 📚 I am a third-year ECE Ph.D. candidate at UIUC. I am advised by Professor Alexander Schwing and work in collaboration with Professor Minh Do and Professor Yaoyao Liu.
 
+
 🖥️ My research interests include generative modeling and error detection in images/videos.
 
 🎣 My personal hobbies include fishing, golfing, and weightlifting.

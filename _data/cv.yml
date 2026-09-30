@@ -1,10 +1,8 @@
 cv:
   name: Eric Ji
-  label: Ph.D. Candidate, Electrical & Computer Engineering
+  label: "Ph.D. Candidate, Electrical & Computer Engineering · U.S. Citizen"
   email: ericji3@illinois.edu
-  phone: "+1-518-265-5649"
   location: Champaign, IL
-  citizenship: U.S. Citizen
 
   social_networks:
     - network: GitHub

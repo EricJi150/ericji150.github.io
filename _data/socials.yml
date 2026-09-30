@@ -3,8 +3,8 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 email: ericji3@illinois.edu # your email address
-github: ericji150
-linkedin: eric-ji-6a506b200
-orcid: 0009-0000-1811-2930
+github_username: ericji150
+linkedin_username: eric-ji-6a506b200
+orcid_id: 0009-0000-1811-2930
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: IcymyOoAAAAJ # your Google Scholar ID

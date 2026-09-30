@@ -28,4 +28,4 @@ I am a third-year Ph.D. candidate in Electrical and Computer Engineering at the 
 
 My research sits at the intersection of **generative modeling** and **video/image understanding**: I'm currently exploring how generative models can help detect errors and understand human actions in long, egocentric videos.
 
-**I am looking for research internship opportunities for Summer 2027.**
+<p style="font-size: 1.3rem;"><strong>I am looking for research internship opportunities for Summer 2027.</strong></p>

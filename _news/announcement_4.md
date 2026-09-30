@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **AC3S: Adaptive Conditioning for 3D-Aware Synthetic Data Generation** was accepted to **ECCV 2026**! :tada:
+Our paper [**AC3S: Adaptive Conditioning for 3D-Aware Synthetic Data Generation**](https://ac3s.cvmlgroup.web.illinois.edu/) was accepted to **ECCV 2026**! :tada:

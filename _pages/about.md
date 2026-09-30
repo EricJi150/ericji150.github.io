@@ -9,6 +9,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ECE Ph.D. @ UIUC<br><a href="mailto:ericji3@illinois.edu">ericji3@illinois.edu</a></p>
+    <p style="font-size: 0.85rem; letter-spacing: 0.3rem;">
+      <a href="https://github.com/ericji150" target="_blank" rel="noopener" title="GitHub"><i class="fa-brands fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/eric-ji-6a506b200" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=IcymyOoAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://orcid.org/0009-0000-1811-2930" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid"></i></a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

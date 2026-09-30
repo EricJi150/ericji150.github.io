@@ -33,8 +33,6 @@ cv:
         start_date: 2020-08
         end_date: 2024-05
         score: "GPA: 3.91/4.0"
-        highlights:
-          - "Relevant courses: Computer Vision, Machine Learning, Pattern Recognition, Optimization, Random Processes."
 
     Publications:
       - title: "AC3S: Adaptive Conditioning for 3D-Aware Synthetic Data Generation"

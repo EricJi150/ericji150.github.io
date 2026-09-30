@@ -6,7 +6,6 @@ nav: true
 nav_order: 6
 cv_pdf: /assets/pdf/CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: Education, research and work experience, publications, and teaching.
 toc:
   sidebar: left
 ---

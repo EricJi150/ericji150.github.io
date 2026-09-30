@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D. candidate<br>ECE @ UIUC &middot; CSL 111</p>
+    <p>Ph.D. candidate<br>ECE @ UIUC<br>CSL 111</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year Ph.D. candidate in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Professor Alexander Schwing](https://alexander-schwing.de/). I also work closely with the [Computational Imaging Group](https://minhdo.ece.illinois.edu/), advised by Professor Minh N. Do, and [CVML](https://vision.ischool.illinois.edu/), advised by Professor Yaoyao Liu.
+I am a third-year Ph.D. candidate in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, part of the [Schwing Lab](https://alexander-schwing.de/), advised by Professor Alexander Schwing. I also work closely with the [Computational Imaging Group](https://minhdo.ece.illinois.edu/), advised by Professor Minh N. Do, and [CVML](https://vision.ischool.illinois.edu/), advised by Professor Yaoyao Liu.
 
 My research sits at the intersection of **generative modeling** and **video/image understanding**: I'm currently exploring how generative models can help detect errors and understand human actions in long, egocentric videos.
 

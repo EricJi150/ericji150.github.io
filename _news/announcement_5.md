@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed my Ph.D. qualifying exam in the UIUC ECE department! :tada:
+Passed my Ph.D. qualifying exam in the UIUC ECE department!
